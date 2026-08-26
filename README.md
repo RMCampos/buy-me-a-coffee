@@ -2,5 +2,5 @@
 
 Simple buy-me-a-coffee page
 
-You can see it here: https://rmcampos.github.io/buy-me-a-coffee/
+You can see it here: https://thermcampos.github.io/buy-me-a-coffee/
 
